@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tip_one">10%</string>
+    <string name="tip_two">15%</string>
+    <string name="tip_three">20%</string>
+    <string name="amount_text">type amount here</string>
+    <string name="final_tip">Amount with Tip</string>
+    <string name="dollar">$</string>
+
+</resources>
